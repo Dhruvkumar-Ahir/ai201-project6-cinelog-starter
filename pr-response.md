@@ -1,8 +1,7 @@
 # PR Response Doc — CineLog Watchlist Feature
-
 ## AI Usage
 
-The project was completed through independent analysis of the codebase, implementation of the required changes, testing, and documentation.
+AI tools were used to assist with understanding the project workflow and Git operations. All implementation, testing, verification, and final project decisions were completed and validated within the project codebase.
 
 ## Comment 1 — Rename
 
