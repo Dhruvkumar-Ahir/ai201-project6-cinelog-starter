@@ -1,3 +1,4 @@
+<img width="4032" height="781" alt="IMG_1983" src="https://github.com/user-attachments/assets/51189ecb-45b1-4cbf-be10-3f6a3b612803" />
 # PR Response Doc — CineLog Watchlist Feature
 ## AI Usage
 
