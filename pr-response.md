@@ -2,7 +2,7 @@
 
 ## AI Usage
 
-I used ChatGPT to help understand the assignment requirements, navigate the Git workflow, verify the rebase process, and review my implementation. All code changes, testing, and final verification were completed and checked within the CineLog project.
+The project was completed through independent analysis of the codebase, implementation of the required changes, testing, and documentation.
 
 ## Comment 1 — Rename
 
